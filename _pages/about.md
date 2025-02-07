@@ -151,4 +151,5 @@ Haiqiao Hong, **Hanbing Wang**, Qitao Zhao
 
 # 💬 Others
 If you're interested in my roommate, please contact WeChat at zjy18354399989.
-![Zjy](../images/wechat_20250207175745.jpg)
+<img src="../images/wechat_20250207175745.jpg" alt="Zjy" width="200"/>
+
