@@ -23,6 +23,19 @@ Email address: liyuanzi at mail.sdu.edu.cn
 
 Please feel free to contact me if you have any questions.
 
+# 📝 Repo
+
+<!-- <div class='paper-box'> -->
+
+<div class='paper-box-text' markdown="1">
+
+- [Awesome-LLM4RS-Papers](https://github.com/nancheng58/Awesome-LLM4RS-Papers) [![](https://img.shields.io/github/stars/nancheng58/Awesome-LLM4RS-Papers?style=social&label=Stars)](https://github.com/nancheng58/Awesome-LLM4RS-Papers)
+
+- [Recommendation-Paper-daily](https://github.com/Lyz103/Recommendation-paper-daily)  [![GitHub Stars](https://img.shields.io/github/stars/Lyz103/Recommendation-paper-daily?style=social)](https://github.com/Lyz103/Recommendation-paper-daily)
+
+<!--                -->
+
+
 <!-- # 📝 Papers -->
 
 <!-- <div class='paper-box'> -->
