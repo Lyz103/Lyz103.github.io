@@ -35,6 +35,11 @@ Please feel free to contact me if you have any questions.
 
 <!--                -->
 
+# 🎖 Honors and Awards
+
+- 2022.10 / 2023.10 / 2024.10 Outstanding Academic Scholarship, Shandong University, China
+
+
 
 <!-- # 📝 Papers -->
 
@@ -52,13 +57,17 @@ Please feel free to contact me if you have any questions.
 
 # 📖 Educations
 
-- *2025.09 - 2030.06（expected）*, PhD, Renmin University of China, Beijing. 
+- *2025.09 - 2030.0 (expected)*, PhD, Renmin University of China, Beijing. 
 - *2021.09 - 2025.06*, Bachelor, Shandong University, Qingdao.
 
 # 💻 Internships
 
 - *2025.02 - 2025.07*,  Research Intern, Huawei Noah’s Ark Lab. (Mentor: Quanyu Dai, Zhenhua Dong)
 - *2022.10 - 2025.06*, Research Assistant, Information Retrieval Lab, Shandong University.  (Supervised by Prof.  [Pengjie Ren](https://pengjieren.github.io/) and Prof. [Xin Xin](https://xinxin-me.github.io/))
+
+# 💬 Others
+- Academic Service: Reviewer (Program Committee Member) of AAAI 2026
+
 
 
 
