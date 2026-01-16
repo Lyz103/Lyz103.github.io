@@ -37,22 +37,29 @@ Please feel free to contact me if you have any questions.
 
 # 🎖 Honors and Awards
 
+- Second Prize, AI Agent Competition | *2025*
 - 2022.10 / 2023.10 / 2024.10 Outstanding Academic Scholarship, Shandong University, China
 
 
 
-<!-- # 📝 Papers -->
+# 📝 Papers
 
 <!-- <div class='paper-box'> -->
 
-<!-- <div class='paper-box-text' markdown="1">
+<!-- <!-- <div class='paper-box-text' markdown="1"> -->
 
 [1] **[Uncovering Selective State Space Model's Capabilities in Lifelong Sequential Recommendation
 ](https://arxiv.org/pdf/2403.16371) - CORR 2024**  
-*Jiyuan Yang, **Yuanzi Li**, Jingyu Zhao, Hanbing Wang, Muyang Ma, Jun Ma, Zhaochun Ren, Mengqi Zhang, Xin Xin, Zhumin Chen, Pengjie Ren* -->
+*Jiyuan Yang, **Yuanzi Li**, Jingyu Zhao, Hanbing Wang, Muyang Ma, Jun Ma, Zhaochun Ren, Mengqi Zhang, Xin Xin, Zhumin Chen, Pengjie Ren*
 
+[2] **[Cultural Dynamics in Multi-Agent Systems: Joint Effects of Individual Openness and Information Flow on Culture Dissemination
+](https://openreview.net/pdf?id=4UmxrtV7eY) - ICAIS 2025** <font color="red">(The most social impact paper)</font>    
+*Lei Wang, Jinchao Wu, **Yuanzi Li**, Junhao Wang, Xu Chen*
 
-<!-- # 🎖 Honors and Awards -->
+[3] **[Towards Fast Domain Adaptation and Fine-Grained User Simulation for Conversational Recommender Systems
+]()** - Neurips2026 (PersonaLM workshop)  
+***Yuanzi Li**, Quanyu Dai, Xueyang Feng, Jingyu Zhao, Weipeng Zhang, Xu Chen, Zhenhua Dong, Huifeng Guo*
+
 
 
 # 📖 Educations
@@ -66,9 +73,4 @@ Please feel free to contact me if you have any questions.
 - *2022.10 - 2025.06*, Research Assistant, Information Retrieval Lab, Shandong University.  (Supervised by Prof.  [Pengjie Ren](https://pengjieren.github.io/) and Prof. [Xin Xin](https://xinxin-me.github.io/))
 
 # 💬 Others
-- Academic Service: Reviewer (Program Committee Member) of AAAI 2026
-
-
-
-
-
+- Academic Service: Reviewer (Program Committee Member) of AAAI 2026, ARR, SIGIR AP
