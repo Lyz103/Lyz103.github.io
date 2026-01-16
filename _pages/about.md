@@ -38,7 +38,7 @@ Please feel free to contact me if you have any questions.
 # 🎖 Honors and Awards
 
 - Second Prize, AI Agent Competition | *2025*
-- 2022.10 / 2023.10 / 2024.10 Outstanding Academic Scholarship, Shandong University, China
+- Outstanding Academic Scholarship, Shandong University, China | *2022.10 / 2023.10 / 2024.10*
 
 
 
