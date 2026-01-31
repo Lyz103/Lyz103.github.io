@@ -41,19 +41,23 @@ Please feel free to contact me if you have any questions or are interested in co
 
 ### 🎓 Ph.D. Research @ Renmin University of China
 
-1. **Towards Fast Domain Adaptation and Fine-Grained User Simulation for Conversational Recommender Systems** ***Yuanzi Li***, Quanyu Dai, Xueyang Feng, Jingyu Zhao, Weipeng Zhang, Xu Chen, Zhenhua Dong, Huifeng Guo  
+1. **Towards Fast Domain Adaptation and Fine-Grained User Simulation for Conversational Recommender Systems**   
+   ***Yuanzi Li***, Quanyu Dai, Xueyang Feng, Jingyu Zhao, Weipeng Zhang, Xu Chen, Zhenhua Dong, Huifeng Guo  
    *NeurIPS 2026 (PersonaLM Workshop)* [[PDF]]()
 
-2. **Cultural Dynamics in Multi-Agent Systems: Joint Effects of Individual Openness and Information Flow on Culture Dissemination** Lei Wang, Jinchao Wu, ***Yuanzi Li***, Junhao Wang, Xu Chen  
+2. **Cultural Dynamics in Multi-Agent Systems: Joint Effects of Individual Openness and Information Flow on Culture Dissemination**   
+   Lei Wang, Jinchao Wu, ***Yuanzi Li***, Junhao Wang, Xu Chen  
    *International Conference on Artificial Intelligence and Statistics (ICAIS), 2025*  
   <span style="color: #e74c3c; font-weight: bold;">(🏆 The Most Social Impact Paper Award)</span>  [[PDF]](https://openreview.net/pdf?id=4UmxrtV7eY)
 
 ### 🎓 Undergraduate Research @ Shandong University
 
-1. **R²NS: Recall and Re-ranking of Negative Samples for Sequential Recommendation** ***Yuanzi Li***, Xuri Ge, Jingyu Zhao, Yidan Wang, Jiyuan Yang, Zhumin Chen, Zhaochun Ren, Xin Xin  
+1. **R²NS: Recall and Re-ranking of Negative Samples for Sequential Recommendation**  
+    ***Yuanzi Li***, Xuri Ge, Jingyu Zhao, Yidan Wang, Jiyuan Yang, Zhumin Chen, Zhaochun Ren, Xin Xin  
    *The Web Conference (WWW), 2025* [[PDF]](../_data/WWW_2026_Camera_Ready.pdf)
 
-2. **Uncovering Selective State Space Model's Capabilities in Lifelong Sequential Recommendation** Jiyuan Yang, ***Yuanzi Li***, Jingyu Zhao, Hanbing Wang, Muyang Ma, Jun Ma, Zhaochun Ren, Mengqi Zhang, Xin Xin, Zhumin Chen, Pengjie Ren  
+2. **Uncovering Selective State Space Model's Capabilities in Lifelong Sequential Recommendation**  
+    Jiyuan Yang, ***Yuanzi Li***, Jingyu Zhao, Hanbing Wang, Muyang Ma, Jun Ma, Zhaochun Ren, Mengqi Zhang, Xin Xin, Zhumin Chen, Pengjie Ren  
    *arXiv Preprint, 2024* [[PDF]](https://arxiv.org/pdf/2403.16371)
 
 
