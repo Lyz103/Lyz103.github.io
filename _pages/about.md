@@ -21,7 +21,7 @@ Hi there! I am a Ph.D. Candidate at the [AI Engine Lab](https://www.ai-engine-la
 
 My research interests primarily lie in **Recommender Systems**, **LLM Agents**, and **AI for Social Science**.
 
-📧 **Email:** `liyuanzi [at] ruc.edu.cn, liyuanzi0313 [at] outlook.com`
+📧 **Email:** `liyuanzi0313 [at] ruc.edu.cn, liyuanzi0313 [at] outlook.com`
 
 Please feel free to contact me if you have any questions or are interested in collaboration.
 
