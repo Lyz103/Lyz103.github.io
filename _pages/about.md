@@ -51,7 +51,7 @@ Please feel free to contact me if you have any questions or are interested in co
 ### 🎓 Undergraduate Research @ Shandong University
 
 1. **R²NS: Recall and Re-ranking of Negative Samples for Sequential Recommendation** ***Yuanzi Li***, Xuri Ge, Jingyu Zhao, Yidan Wang, Jiyuan Yang, Zhumin Chen, Zhaochun Ren, Xin Xin  
-   *The Web Conference (WWW), 2026* [[PDF]](../_data/WWW_2026_Camera_Ready.pdf)
+   *The Web Conference (WWW), 2025* [[PDF]](../_data/WWW_2026_Camera_Ready.pdf)
 
 2. **Uncovering Selective State Space Model's Capabilities in Lifelong Sequential Recommendation** Jiyuan Yang, ***Yuanzi Li***, Jingyu Zhao, Hanbing Wang, Muyang Ma, Jun Ma, Zhaochun Ren, Mengqi Zhang, Xin Xin, Zhumin Chen, Pengjie Ren  
    *arXiv Preprint, 2024* [[PDF]](https://arxiv.org/pdf/2403.16371)
