@@ -47,7 +47,7 @@ Please feel free to contact me if you have any questions or are interested in co
 
 2. **Cultural Dynamics in Multi-Agent Systems: Joint Effects of Individual Openness and Information Flow on Culture Dissemination**   
    Lei Wang, Jinchao Wu, ***Yuanzi Li***, Junhao Wang, Xu Chen  
-   *International Conference on Artificial Intelligence and Statistics (ICAIS), 2025*  
+   *The 1st International Conference on AI Scientists (ICAIS), 2025*  
   <span style="color: #e74c3c; font-weight: bold;">(🏆 The Most Social Impact Paper Award)</span>  [[PDF]](https://openreview.net/pdf?id=4UmxrtV7eY)
 
 ### 🎓 Undergraduate Research @ Shandong University
