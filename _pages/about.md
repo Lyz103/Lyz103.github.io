@@ -41,7 +41,7 @@ Please feel free to contact me if you have any questions or are interested in co
 
 ### 🎓 Ph.D. Research @ Renmin University of China
 
-1. **Evaluating and Calibrating LLM Confidence on Questions with Multiple Correct Answers**
+1. **Evaluating and Calibrating LLM Confidence on Questions with Multiple Correct Answers**  
    Yuhan Wang, Shiyu Ni, Zhikai Ding, Zihang Zhan, ***Yuanzi Li***, Keping Bi
    *arXiv Preprint, 2026* [[PDF]](https://arxiv.org/pdf/2602.07842)
 
