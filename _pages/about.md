@@ -29,8 +29,8 @@ Please feel free to contact me if you have any questions or are interested in co
 
 # 📖 Education
 
-- **Ph.D. in Artificial Intelligence** (Expected)  
-  *Renmin University of China, Beijing* *Sept. 2025 - June 2030*
+- **Ph.D. in Artificial Intelligence** 
+  *Renmin University of China, Beijing* *Sept. 2025 - June 2030(Expected)*
 
 - **B.S. in Computer Science** *Shandong University, Qingdao* *Sept. 2021 - June 2025*
 
@@ -93,6 +93,8 @@ Please feel free to contact me if you have any questions or are interested in co
   - AAAI 2026
   - ACL Rolling Review (ARR)
   - SIGIR-AP
+  - SIGIR
+  - SIGKDD
 
 ---
 
