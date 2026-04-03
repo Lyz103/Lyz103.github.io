@@ -40,7 +40,9 @@ Please feel free to contact me if you have any questions or are interested in co
 # 📝 Publications
 
 ### 🎓 Ph.D. Research @ Renmin University of China
-1. 
+1. **Divergence Meets Consensus: A Multi-Source Negative Sampling Framework for Sequential Recommendation**  
+  Yuanzi Li, Lingjie Wang, Jingyu Zhao, Zihang Tian, Lei Wang, Xu Chen
+  *SIGIR, 2026* [[PDF]](../_data/WWW_2026_Camera_Ready.pdf)
 
 2. **Evaluating and Calibrating LLM Confidence on Questions with Multiple Correct Answers**  
    Yuhan Wang, Shiyu Ni, Zhikai Ding, Zihang Zhan, ***Yuanzi Li***, Keping Bi
