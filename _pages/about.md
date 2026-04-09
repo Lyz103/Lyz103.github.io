@@ -40,19 +40,23 @@ Please feel free to contact me if you have any questions or are interested in co
 # 📝 Publications
 
 ### 🎓 Ph.D. Research @ Renmin University of China
-1. **Divergence Meets Consensus: A Multi-Source Negative Sampling Framework for Sequential Recommendation**  
-  Yuanzi Li, Lingjie Wang, Jingyu Zhao, Zihang Tian, Lei Wang, Xu Chen
-  *SIGIR, 2026* [[PDF]](../_data/WWW_2026_Camera_Ready.pdf)
+1. **LLM Agents as Social Scientists: A Human–AI Collaborative Platform for Social Science Automation**  
+  Lei Wang, ***Yuanzi Li***, Jinchao Wu, Heyang Gao, Xiaohe Bo, Xu Chen, Jirong Wen   
+  *Arxiv'26* [[PDF]](https://arxiv.org/pdf/2604.01520)
 
-2. **Evaluating and Calibrating LLM Confidence on Questions with Multiple Correct Answers**  
-   Yuhan Wang, Shiyu Ni, Zhikai Ding, Zihang Zhan, ***Yuanzi Li***, Keping Bi
+2. **Divergence Meets Consensus: A Multi-Source Negative Sampling Framework for Sequential Recommendation**  
+  ***Yuanzi Li***, Lingjie Wang, Jingyu Zhao, Zihang Tian, Lei Wang, Xu Chen  
+  *SIGIR, 2026* [[PDF]](../_data/SIGIR_2026_Camera_Ready.pdf)
+
+3. **Evaluating and Calibrating LLM Confidence on Questions with Multiple Correct Answers**  
+   Yuhan Wang, Shiyu Ni, Zhikai Ding, Zihang Zhan, ***Yuanzi Li***, Keping Bi  
    *arXiv Preprint, 2026* [[PDF]](https://arxiv.org/pdf/2602.07842)
 
-3. **Towards Fast Domain Adaptation and Fine-Grained User Simulation for Conversational Recommender Systems**   
+4. **Towards Fast Domain Adaptation and Fine-Grained User Simulation for Conversational Recommender Systems**   
    ***Yuanzi Li***, Quanyu Dai, Xueyang Feng, Jingyu Zhao, Weipeng Zhang, Xu Chen, Zhenhua Dong, Huifeng Guo  
    *NeurIPS 2026 (PersonaLM Workshop)* [[PDF]]()
 
-4. **Cultural Dynamics in Multi-Agent Systems: Joint Effects of Individual Openness and Information Flow on Culture Dissemination**   
+5. **Cultural Dynamics in Multi-Agent Systems: Joint Effects of Individual Openness and Information Flow on Culture Dissemination**   
    Lei Wang, Jinchao Wu, ***Yuanzi Li***, Junhao Wang, Xu Chen  
    *The 1st International Conference on AI Scientists (ICAIS), 2025*  
   <span style="color: #e74c3c; font-weight: bold;">(🏆 The Most Social Impact Paper Award)</span>  [[PDF]](https://openreview.net/pdf?id=4UmxrtV7eY)
